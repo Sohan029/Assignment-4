@@ -21,6 +21,7 @@ public class Prob5 {
             case '*':
                 System.out.println(a*b);
                 break;
+                
             case '/':
                 System.out.println(a/b);
                 break;
